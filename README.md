@@ -1,5 +1,5 @@
 # Interview code
-##python manage.py migrate
+## python manage.py migrate
 ### python manage.py runserver
 #### http://localhost:8000/employee_api/employee_api/1/delete/
 #### for delete employee details method delete
